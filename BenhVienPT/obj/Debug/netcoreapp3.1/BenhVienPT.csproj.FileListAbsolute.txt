@@ -1,0 +1,195 @@
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.exe
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.deps.json
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.runtimeconfig.json
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.pdb
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.pdb
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.csproj.CopyComplete
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.FormDangNhap.resources
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.Form2.resources
+C:\Users\Admin\source\repos\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.Form3.resources
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.exe
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.deps.json
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.runtimeconfig.json
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.runtimeconfig.dev.json
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.pdb
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.FormDangNhap.resources
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.Form2.resources
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.Form3.resources
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.AssemblyInfo.cs
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.csproj.CopyComplete
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.dll
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.pdb
+C:\Users\Admin\Documents\TaiLieuNam4_HK2\BMMMT và HT\BenhVienPT\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.genruntimeconfig.cache
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.csproj.AssemblyReference.cache
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.pdb
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.exe
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.deps.json
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.runtimeconfig.json
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.runtimeconfig.dev.json
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\BenhVienPT.pdb
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.Bacsi.resources
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.FormDangNhap.resources
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.FormNVVTYT.resources
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.FormDatLich.resources
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.FormQuanLyPT.resources
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.Yta.resources
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.csproj.GenerateResource.cache
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.AssemblyInfoInputs.cache
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.AssemblyInfo.cs
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.csproj.CoreCompileInputs.cache
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.csproj.CopyComplete
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.genruntimeconfig.cache
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.Properties.Resources.resources
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\EPPlus.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\EPPlus.Interfaces.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\EPPlus.System.Drawing.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\ClosedXML.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Irony.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\XLParser.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\BVPT\QuanLyPhongMo\BenhVienPT\obj\Debug\netcoreapp3.1\BenhVienPT.csproj.ResolveComReference.cache
